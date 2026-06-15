@@ -1,2 +1,2 @@
 :HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/chunks/1mksiox2btuwr.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dKi0MWqgMQKH5xyOGu4aj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6FGgWm7IS7Uo-A9nB7vRJ"}
