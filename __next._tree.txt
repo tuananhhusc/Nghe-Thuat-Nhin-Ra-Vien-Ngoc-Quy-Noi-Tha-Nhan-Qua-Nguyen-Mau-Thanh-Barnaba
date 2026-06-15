@@ -1,0 +1,6 @@
+:HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/chunks/1mksiox2btuwr.css","style"]
+:HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/media/0797a9ffe47acb65-s.p.0die5hfoqv6qs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/media/14e23f9b59180572-s.p.0t8ljjjn9wtsx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/media/248e1dc0efc99276-s.p.1d6sb5kuiz5lw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Nghe-Thuat-Nhin-Ra-Vien-Ngoc-Quy-Noi-Tha-Nhan-Qua-Nguyen-Mau-Thanh-Barnaba/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dKi0MWqgMQKH5xyOGu4aj"}
